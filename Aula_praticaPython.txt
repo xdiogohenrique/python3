@@ -1,0 +1,22 @@
+nome_completo = "Diogo Henrique"
+sobrenome = "Santana de Jesus"
+idade = 18 
+peso = 71.200 
+print("O nome é:", nome_completo, sobrenome,"e a sua idade é:", idade)
+
+
+a = 50
+b = 50 
+c = a + b
+print("O resultado da operação é =", c)
+
+
+num1 = int(input("Insira o primeiro número:"))
+num2 = int(input("Insira o segundo número:"))
+resultado = num1 + num2
+print("O resultado da soma é: ", resultado)
+
+
+nome = input("Insira seu nome: ")
+
+print("O nome digitado foi ",nome)

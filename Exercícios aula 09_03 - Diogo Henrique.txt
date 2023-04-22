@@ -1,0 +1,28 @@
+Exercício 1 -
+universidade = "Ciências da computação - UNICSUL"
+
+print(universidade)
+________________________________________________________________________
+
+Exercício 2 - 
+profissao = input("Insira sua profissão:")
+
+print("Sua profissão é", profissao)
+________________________________________________________________________
+
+Exercício 3 - 
+idade = input("Insira sua idade:")
+
+print("Sua idade é", idade, "anos")
+_________________________________________________________________________
+
+Exercício 4 - 
+sobrenome = input("Insira seu último sobrenome:")
+
+print("Família",sobrenome)
+__________________________________________________________________________
+
+Exercício 5 - 
+esporte = input("Insira seu esporte favorito:")
+
+print("Seu esporte favorito é:", esporte)
